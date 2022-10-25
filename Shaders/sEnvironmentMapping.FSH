@@ -1,5 +1,5 @@
 //
-//  sEnvironmentMapping.fsh
+//  sEnvironmentMapping.FSH
 //
 //  Created by Anton Holmquist
 //  Copyright 2012 Anton Holmquist. All rights reserved.
@@ -9,7 +9,7 @@
 //
 //  http://github.com/antonholmquist/opengl-es-2-0-shaders
 //
-
+#version 310
 precision highp float;
 
 // Environment map
