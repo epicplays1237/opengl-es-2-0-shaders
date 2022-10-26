@@ -1,5 +1,5 @@
 //
-//  sEnvironmentMapping.fsh
+//  sEnvironmentMapping.FSH
 //
 //  Created by Anton Holmquist
 //  Copyright 2012 Anton Holmquist. All rights reserved.
@@ -11,7 +11,7 @@
 //
 
 precision highp float;
-
+#version 310
 // Environment map
 uniform lowp samplerCube s_environmentMap;
 
